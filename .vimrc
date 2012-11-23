@@ -1,0 +1,1 @@
+/Users/malugus/.vimrc
