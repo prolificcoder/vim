@@ -1,1 +1,5 @@
-/Users/malugus/.vimrc
+:set number
+call pathogen#infect()
+call pathogen#helptags()
+syntax on
+filetype plugin indent on
