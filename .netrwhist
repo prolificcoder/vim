@@ -1,0 +1,9 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =7
+let g:netrw_dirhist_1='/Users/malugus/Library/Caches/com.google.Chrome'
+let g:netrw_dirhist_2='/Users/malugus/Library/Caches/com.google.Chrome/com.apple.opencl'
+let g:netrw_dirhist_3='/Users/malugus/code/bc-dashboard/.idea'
+let g:netrw_dirhist_4='/Users/malugus/.ssh'
+let g:netrw_dirhist_5='/Users/malugus/.oh-my-zsh/themes'
+let g:netrw_dirhist_6='/Users/malugus/code/bc-dashboard'
+let g:netrw_dirhist_7='/Users/malugus'
